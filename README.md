@@ -8,3 +8,6 @@ Setup and running instructions:
 `gcc -ansi -Wall -Wextra -Wpedantic name.c`. 
 This will create an executable with the name `a.out`. The compiler flags enforce syntactic restrictions that are very close to the description of C in the official lecture material.
 3. To run `a.out` from a unix-like system, type `./a.out`.
+
+
+I have added the solutions of the tasks not solved in the last tutorial (tut-14).
